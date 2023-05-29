@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+# [Webbee - Multipurpose Template + UI Kit](https://webbee.maccarianagency.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Material-UI & ReactJS based Landing Pages Kit made with [Material UI's](https://material-ui.com/?ref=maccarian-agency) components, [React](https://reactjs.org/?ref=maccarian-agency).
 
-## Available Scripts
+A professional React Kit that comes with plenty of ready-to-use Material-UI components that will help you to build faster & beautiful fontend pages. Each component is fully customizable, responsive and easy to integrate.
 
-In the project directory, you can run:
+## Built with
 
-### `npm start`
+- React
+- Material-UI
+- React Scripts
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Webbee landing page examples can be used out of the box, but since they’re built on flexible components, you can also create new pages all your own with ease. Copy-paste a section here, a component there, switch up a few variables, and you have an entirely new landing!
 
-### `npm test`
+- More than 30 pages
+- Reusable component compositions
+- create-react-app & react-scripts support
+- Dark mode support
+- Image lazy loading support
+- Animated sections on scroll
+- Image Swiper support
+- Fully responsive on all modern browsers
+- Free customer support
+- Free updates
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Learn more
 
-### `npm run build`
+- [Launch a live demo](https://webbee.maccarianagency.com)
+- [Documentation & Quick Start](https://webbee.maccarianagency.com/docs-introduction)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Quick start
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Install dependencies: `yarn install`
+- Start the server: `yarn start`
+- Build on production: `yarn build`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## MUI Documentation
 
-### `npm run eject`
+The full documentation for the React Material Kit can be found [here](https://next.material-ui.com?ref=maccarian-agency).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Free Updates and Support
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+No matter how well documented and built something is, sometimes you just need a little help! That’s why we make ourselves available to help you anytime, just contact our [support](hi@maccarianagency.com) email. We’re also planning tons of updates! In addition to keeping theFront up to date with Material UI's core and any necessary patches, we’ll be adding new features regularly over the coming months!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Contact us via email](hi@maccarianagency.com)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact Us
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email Us: hi@maccarianagency.com
+- [Follow us on Linkedin](https://www.linkedin.com/company/maccarian)
+- [Follow us on Instagram](https://www.instagram.com/maccarian/)
+- [Follow us on Facebook](https://facebook.com/maccarian.agency/)
